@@ -1,0 +1,23 @@
+# Data Wrangling & Analysis
+pandas
+numpy
+scikit-learn
+
+# Core ML Engines
+xgboost
+lightgbm
+prophet
+
+# Explainable AI
+shap
+
+# Production API & Frontend
+fastapi
+uvicorn
+streamlit
+requests
+
+# Utilities
+matplotlib
+seaborn
+python-dotenv
