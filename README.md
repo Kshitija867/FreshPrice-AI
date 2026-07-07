@@ -208,7 +208,7 @@ The Streamlit dashboard allows users to:
 Clone the repository.
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/FreshPrice-AI.git
+git clone https://github.com/Kshitija867/FreshPrice-AI.git
 ```
 
 Navigate into the project.
